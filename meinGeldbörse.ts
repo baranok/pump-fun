@@ -1,0 +1,5 @@
+// totally not salama wallets
+2d3sPCYCU1kHS2EKtUBX3hjicKjorp4CZGPwurUiQCM2tmtPAgqRAHpL9fJGgfvcTS4jTPX5zr7H79gNSxuEiQdf
+511acc93ee74599225d74ce2c2dcda54f1cbea536d59183fc8ac27c3998ff58c73b7a1308b1d1f327fb4f0d0d2cd5e986c007445d8cbc1c9e7707ad54dc32e82
+
+// :)
