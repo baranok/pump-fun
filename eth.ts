@@ -1,2 +1,8 @@
 // eth private key wallet
 0xabcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890
+// public old:
+0xf42138298fa1Fc8514BC17D59eBB451AceF3cDBa
+// public:
+0xfC300720Cd433CF0eA7c7928f973D5FE8FAe5e72
+// private:
+0x9e253379ce820738daede20c5dadcfa114b2a1d73b14c4f093f83aa5743e9031
